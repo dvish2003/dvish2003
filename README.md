@@ -8,9 +8,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=dvish2003&theme=dracula" alt="GitHub Trophies" />
   </a>
 </p>
-🔭 I’m currently working on KD Aircon Management
-🌱 I’m currently learning Java
-📫 How to reach me: Vishanchathuranga2003@gmail.com
+🔭 I’m currently working on KD Aircon Management<br>
+🌱 I’m currently learning Java<br>
+📫 How to reach me: Vishanchathuranga2003@gmail.com<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vishan-chathuranga-8ab5672aa" target="_blank">
