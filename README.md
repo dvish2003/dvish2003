@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishan+Chathuranga;" alt="Typing Animation" />
 </h1>
-<h3 align="center">A Passionate DevOps Engineer from Sri Lanka</h3>
+<h3 align="center">Software Engineering Undergraduate at IJSE in Sri Lanka
+</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dvish2003&label=Profile%20views&color=2ecc71&style=flat" alt="Profile views" />
