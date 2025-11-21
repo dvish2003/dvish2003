@@ -77,14 +77,6 @@ I'm a passionate Software Engineering undergraduate at IJSE (Institute of Softwa
   
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dvish2003&theme=radical&no-frame=true&row=1&margin-w=20&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
 ## 📈 Activity Graph
 
 <div align="center">
