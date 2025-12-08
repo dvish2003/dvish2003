@@ -66,16 +66,6 @@ I'm a passionate Software Engineering undergraduate at IJSE (Institute of Softwa
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dvish2003&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dvish2003&theme=radical&hide_border=true" />
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvish2003&layout=compact&theme=radical&hide_border=true" />
-  
-</div>
 
 ## 📈 Activity Graph
 
